@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Omega-R/OmegaGZipInterceptor.svg)](https://jitpack.io/#Omega-R/OmegaGZipInterceptor)
+
 # OmegaGZipInterceptor
 helper unziping files from server
 
