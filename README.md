@@ -19,7 +19,7 @@ allprojects {
 **Step 2.** Add the dependency
 ```
 dependencies {
-    compile 'com.github.Omega-R:OmegaGZipInterceptor:v1.0'
+    compile 'com.github.Omega-R:OmegaGZipInterceptor:1.1.0'
 }
 ```
 
